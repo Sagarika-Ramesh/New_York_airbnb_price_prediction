@@ -1,0 +1,22 @@
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+-----------------------------
+{'ML_algo__alpha': 0.07742636826811278, 'ML_algo__max_iter': 100000000, 'ML_algo__random_state': 10}
+{'ML_algo__alpha': 0.07742636826811278, 'ML_algo__max_iter': 100000000, 'ML_algo__random_state': 10}
+{'ML_algo__alpha': 0.07742636826811278, 'ML_algo__max_iter': 100000000, 'ML_algo__random_state': 10}
+{'ML_algo__alpha': 0.07742636826811278, 'ML_algo__max_iter': 100000000, 'ML_algo__random_state': 10}
+{'ML_algo__alpha': 0.027825594022071257, 'ML_algo__max_iter': 100000000, 'ML_algo__random_state': 10}
+{'ML_algo__alpha': 0.07742636826811278, 'ML_algo__max_iter': 100000000, 'ML_algo__random_state': 10}
+-----------------------------
+0.1268531976039512
+0.15237091784590995
+0.14864377358887226
+0.09808984144811683
+0.11684700515036572
+0.10085316245169795
+-----------------------------
+r2_score: mean 0.124 +/- 0.021 standard deviation

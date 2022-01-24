@@ -1,0 +1,22 @@
+Fitting 5 folds for each of 15 candidates, totalling 75 fits
+Fitting 5 folds for each of 15 candidates, totalling 75 fits
+Fitting 5 folds for each of 15 candidates, totalling 75 fits
+Fitting 5 folds for each of 15 candidates, totalling 75 fits
+Fitting 5 folds for each of 15 candidates, totalling 75 fits
+Fitting 5 folds for each of 15 candidates, totalling 75 fits
+-----------------------------
+{'ML_algo__max_depth': 30, 'ML_algo__max_features': 0.4, 'ML_algo__n_jobs': -1, 'ML_algo__random_state': 42}
+{'ML_algo__max_depth': 20, 'ML_algo__max_features': 0.4, 'ML_algo__n_jobs': -1, 'ML_algo__random_state': 42}
+{'ML_algo__max_depth': 20, 'ML_algo__max_features': 0.4, 'ML_algo__n_jobs': -1, 'ML_algo__random_state': 42}
+{'ML_algo__max_depth': 100, 'ML_algo__max_features': 0.4, 'ML_algo__n_jobs': -1, 'ML_algo__random_state': 42}
+{'ML_algo__max_depth': 20, 'ML_algo__max_features': 0.4, 'ML_algo__n_jobs': -1, 'ML_algo__random_state': 42}
+{'ML_algo__max_depth': 20, 'ML_algo__max_features': 0.4, 'ML_algo__n_jobs': -1, 'ML_algo__random_state': 42}
+-----------------------------
+0.12180160698394749
+0.2251506324665684
+0.11239871942423318
+0.10549305800601516
+0.11304429565970875
+0.11195825890412825
+-----------------------------
+r2_score: (mean) 0.13 +/- 0.04 (standard deviation)
